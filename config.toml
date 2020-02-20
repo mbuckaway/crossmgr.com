@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "http://mbuckaway.github.io/crossmgr.com/"
 languageCode = "en-us"
 title = "CrossMgr"
 theme = "syna"
