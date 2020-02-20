@@ -5,6 +5,7 @@ title = "CrossMgr"
 theme = "syna"
 enableGitInfo = false
 version = "0.16.1"
+publishDir = "docs"
 
 # Google Analytics tracking
 googleAnalytics = ""
@@ -47,7 +48,7 @@ lastmod = ["lastmod", ":git", "date"]
   # Optional, global disable switch for fontawesome related files
   # For custom fontawesome js files use the custom.js method
   [params.fontawesome]
-    disabled = true
+    disabled = false
     pro = false
 
   [params.colors]
