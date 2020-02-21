@@ -1,11 +1,10 @@
 # Site settings
-baseurl = "http://mbuckaway.github.io/"
+baseurl = "/"
 languageCode = "en-us"
 title = "CrossMgr"
 theme = "syna"
 enableGitInfo = false
 version = "0.16.1"
-publishDir = "docs"
 
 # Google Analytics tracking
 googleAnalytics = ""
