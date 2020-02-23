@@ -7,7 +7,7 @@ background = "light" # can influence the text color
 particles = true
 
 title = "CrossMgr"
-subtitle = "Racing Timing Software for the rest of us"
+subtitle = "Racing Timing Software for the Rest of Us"
 
 [header]
   image = "header.jpg"
