@@ -1,0 +1,10 @@
+pages:
+    - releases
+    - development
+releases:
+    header: releases-header.md
+    row: releases-row.md
+    projects:
+        - mbuckaway/CrossMgr
+        - mbuckaway/RaceDB
+

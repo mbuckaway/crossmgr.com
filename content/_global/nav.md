@@ -6,7 +6,7 @@ weight = 0
 background = "primary"
 
 [repo_button]
-  url = "https://github.com/esitarki"
+  url = "https://github.com/esitarski"
   text = "GitHub" 
   icon = "fab fa-github"
 
