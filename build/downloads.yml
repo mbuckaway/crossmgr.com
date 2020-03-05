@@ -2,8 +2,28 @@ pages:
     - releases
     - development
 releases:
-    header: releases-header.md
-    row: releases-row.md
+    tag: latest
+    table:
+        header: releases-header.md
+        row: releases-row.md
+        output: releases.md
+    notes:
+        header: release-notes-header.md
+        row: release-notes-row.md
+        output: releases-notes.md
+    projects:
+        - mbuckaway/CrossMgr
+        - mbuckaway/RaceDB
+development:
+    tag: development
+    table:
+        header: development-header.md
+        row: development-row.md
+        output: development.md
+    notes:
+        header: development-notes-header.md
+        row: development-notes-row.md
+        output: development.md
     projects:
         - mbuckaway/CrossMgr
         - mbuckaway/RaceDB
